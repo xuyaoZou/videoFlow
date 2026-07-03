@@ -49,7 +49,7 @@ Luciano 是一个基于节点画布的 AI 视频创作平台，支持将多个 A
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/xuyaoZou/luciano-flow.git
+git clone https://github.com/xuyaoZou/videoflow.git
 cd luciano
 
 # 2. 配置环境变量
